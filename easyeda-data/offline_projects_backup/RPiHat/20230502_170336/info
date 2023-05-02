@@ -1,0 +1,64 @@
+{
+  "uuid": "79c1dd4c54797b6962c906a4f19793e2",
+  "path": "Offline/RPiHat",
+  "name": "RPiHat",
+  "content": "",
+  "created_at": "2023-05-02 15:13:41",
+  "updated_at": "2023-05-02 17:03:35",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "f1d6101923cc25484f718680929f756a",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "efe38801e10b1d1b4fef34c5b6b7b508",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b3dbc7903a934fc5b944384fc78c6e70": 1,
+        "d1e8bb5ce8994356ae79d54e67bda5e6": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "RASPBERRYPI-B+-GPIO",
+          1,
+          "2X20-SHROUDED",
+          "JP1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "8539541cfef64454addecf58c3d352eb",
+            "uuid": "b3dbc7903a934fc5b944384fc78c6e70"
+          }
+        ],
+        [
+          "09 18 516 7323",
+          1,
+          "918516X323",
+          "P1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "778efa9e4cac4412a66721c29fb6c705",
+            "uuid": "d1e8bb5ce8994356ae79d54e67bda5e6"
+          }
+        ]
+      ],
+      "updateTime": 1683011015,
+      "createTime": 1683004422,
+      "histories": [],
+      "created_at": "2023-05-02 15:13:42",
+      "updated_at": "2023-05-02 17:03:35"
+    }
+  ],
+  "sort": [],
+  "title": "RPiHat",
+  "foldername": "RPiHat",
+  "schfilename": "RPiHat.json",
+  "schfilemtime": 1683011015963
+}
